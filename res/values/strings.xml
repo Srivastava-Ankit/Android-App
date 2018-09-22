@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GithubIssue</string>
+    <string name="sign_in">Sign in</string>
+    <string name="organization">Organization</string>
+    <string name="repo">Repo</string>
+    <string name="error_sign">Please enter valid input.</string>
+    <string name="server_error">Server Error. Try again</string>
+</resources>
